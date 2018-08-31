@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MPlayer</string>
+    <string name="err_not_select">番号が選択されていません</string>
+</resources>
